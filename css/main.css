@@ -492,12 +492,12 @@ nav li a:hover {
     width: 50%;
     height: auto;
     margin-right: 8em;
-    margin-bottom: 100em;
+    margin-bottom: 95em;
   }
   section.features-section .vid iframe {
-    width: 1280px;
+    width: 1152px;
     padding-bottom: 8em;
-    height: 720px;
+    height: 648px;
     margin-left: 8em;
   }
   .features-section img {
