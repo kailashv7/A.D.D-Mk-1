@@ -405,10 +405,10 @@ nav li a:hover {
     text-align: left;
   }
   .hero .container .primary-cta {
-    background: #6e0f5b73;
+    background: #5e8a8b9f;
     color: var(--primary-color);
     text-decoration: none;
-    padding: .6em 1.3em;
+    padding: 1em 1.3em;
     font-size: 1.4em;
     border-radius: 5em;
     font-weight: bold;
