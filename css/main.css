@@ -472,7 +472,7 @@ nav li a:hover {
     font-weight: bold;
     display: inline-block;
     z-index: +5;
-    margin: 0em 0em 30em 4.7em;
+    margin: 0em 0em 0em 4.7em;
   }
   section.features-section .primary-cta:hover {
     background: #0af52dd7;
@@ -490,10 +490,11 @@ nav li a:hover {
     width: 60%;
   }
   section.features-section .d-img {
-    width: 50%;
+    width: 60%;
     height: auto;
-    margin-right: 8em;
-    margin-bottom: 95em;
+    margin-top: 0em;
+    margin-right: 10em;
+    position: relative;
   }
   section.features-section .vid iframe {
     width: 1152px;
